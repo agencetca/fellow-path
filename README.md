@@ -1,2 +1,5 @@
-# fellow-path
-Learn anything by following your fellow path
+
+
+npm install
+cd static && bower install && cd ..
+node app.js
