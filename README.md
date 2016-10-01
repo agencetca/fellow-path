@@ -1,5 +1,5 @@
 
 
-npm install
-cd static && bower install && cd ..
+npm install && 
+cd static && bower install && cd .. && 
 node app.js
